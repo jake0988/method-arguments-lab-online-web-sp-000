@@ -3,5 +3,5 @@ def introduction(arg)
 end
 
 def introduction_with_language(arg, val)
-  puts "Hi, my name is #{arg} and I am learning to program in #{val}./n"
+  puts "Hi, my name is #{arg} and I am learning to program in #{val}.\n"
 end
