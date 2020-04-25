@@ -3,8 +3,5 @@ def meth(arg)
 end
 
 def sec_meth(arg, val)
-  arg = 5
-  val = 10
-  tot = arg + val
-  tot
+  puts "Hi, my name is #{arg} and I am learning to program in #{val}./n"
 end
