@@ -1,5 +1,5 @@
 def meth(arg)
-  puts arg
+  puts "Hi, my name is #{arg}.\n"
 end
 
 def sec_meth(arg, val)
